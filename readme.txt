@@ -4,4 +4,4 @@ Git is free software.
 append GP
 creating a new branch is quick.
 new row
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
